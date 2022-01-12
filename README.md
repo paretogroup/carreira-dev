@@ -10,6 +10,8 @@ _Conheça aqui as oportunidades de carreira da Paretech - o Departamento de Tecn
 
 [Oportunidades disponíveis!](https://github.com/paretogroup/carreira-dev/issues)
 
+Conheça a [Comunidade Pareto](https://comunidade.pareto.io/), um ambiente de qualificação para Profissões Digitais que faz parte do Processo Seletivo da Pareto - o mais inclusivo do Brasil. Através da Comunidade - e dos processos seletivos dentro dela - você terá acesso a diversas trilhas de conhecimento, desenvolvidas de forma a ajudá-lo a alcançar a excelência profissional em diversas carreiras digitais.
+
 Para receber atualizações das oportunidades no seu e-mail ou via notificações do Github, basta clicar em **Watch** e, em seguida, clicar em **Watching**. 
 
 Você pode configurar as [notificações](https://github.com/settings/notifications) no próprio Github a qualquer momento.
